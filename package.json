@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "chrono-node": "^2.1.11"
+    "chrono-node": "^2.2.4"
   },
   "main": "bin/index.js",
   "bin": {
